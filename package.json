@@ -1,0 +1,29 @@
+{
+  "name": "natural-clock",
+  "version": "0.0.1",
+  "description": "Um simples relógio criado através de Js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diogo2550/Relogio-Js.git"
+  },
+  "keywords": [
+    "relogio"
+  ],
+  "author": "Diogo Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Diogo2550/Rel-gio-Js/issues"
+  },
+  "homepage": "https://github.com/Diogo2550/Rel-gio-Js#readme",
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
